@@ -1,0 +1,5 @@
+C:\Users\jkan\OneDrive\Pulpit\praktyki\ZadaniaNaPraktyki\ZadaniaNaPraktyki\obj\Debug\net6.0\ZadaniaNaPraktyki.csproj.AssemblyReference.cache
+C:\Users\jkan\OneDrive\Pulpit\praktyki\ZadaniaNaPraktyki\ZadaniaNaPraktyki\obj\Debug\net6.0\ZadaniaNaPraktyki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkan\OneDrive\Pulpit\praktyki\ZadaniaNaPraktyki\ZadaniaNaPraktyki\obj\Debug\net6.0\ZadaniaNaPraktyki.AssemblyInfoInputs.cache
+C:\Users\jkan\OneDrive\Pulpit\praktyki\ZadaniaNaPraktyki\ZadaniaNaPraktyki\obj\Debug\net6.0\ZadaniaNaPraktyki.AssemblyInfo.cs
+C:\Users\jkan\OneDrive\Pulpit\praktyki\ZadaniaNaPraktyki\ZadaniaNaPraktyki\obj\Debug\net6.0\ZadaniaNaPraktyki.csproj.CoreCompileInputs.cache
